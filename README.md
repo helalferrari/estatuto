@@ -1,4 +1,4 @@
-estatuto
+Estatuto
 ========
 
-O estatuto que rege a ONG
+Estatuto da Associção Drupal Brasil.
